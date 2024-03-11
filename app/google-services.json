@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "47881886400",
+    "firebase_url": "https://musicproject-ddc81-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "musicproject-ddc81",
+    "storage_bucket": "musicproject-ddc81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47881886400:android:6bb42b6dafc6576d9feb25",
+        "android_client_info": {
+          "package_name": "com.smokermobilesoftcompanyltd.musicmediaplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpYcuWpGsKAGiTPzDj4eMC-GVpnes-KhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47881886400:android:4fd35114fb97a4099feb25",
+        "android_client_info": {
+          "package_name": "com.smokermobilecompany.musicstream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpYcuWpGsKAGiTPzDj4eMC-GVpnes-KhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
